@@ -1,43 +1,69 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png", Star Plus
-http://217.20.112.199/starplushd/index.m3u8
-#EXTINF:-1 ,BTV HD http://global.ncare.live/live-orgin/btvbd-office-sg.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Ekushey TV https://global.ncare.live/live-orgin/ekusheytv-8-org.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png", N TV
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8
 
-#EXTINF:-1 ,Ekattor TV https://global.ncare.live/live-orgin/ekattor.stream/playlist.m3u8 
+#EXTINF:-1 ,BTV HD 
+http://global.ncare.live/live-orgin/btvbd-office-sg.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Discover Pakistan TV https://global.ncare.live/live-orgin/discoverpakistan.stream/playlist.m3u8 
+#EXTINF:-1 ,Ekushey TV 
+https://global.ncare.live/live-orgin/ekusheytv-8-org.stream/playlist.m3u8 
+
+#EXTINF:-1 ,Ekattor TV 
+https://global.ncare.live/live-orgin/ekattor.stream/playlist.m3u8 
+
+#EXTINF:-1 ,Discover Pakistan TV 
+https://global.ncare.live/live-orgin/discoverpakistan.stream/playlist.m3u8 
 
 #EXTINF:-1 ,Deepto TV https://global.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Deen TV UK https://global.ncare.live/live-orgin/deentv.stream/playlist.m3u8 
+#EXTINF:-1 ,Deen TV UK 
+https://global.ncare.live/live-orgin/deentv.stream/playlist.m3u8 
 
-#EXTINF:-1 ,DBC News https://global.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8 
+#EXTINF:-1 ,DBC News 
+https://global.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Asian TV https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8 
+#EXTINF:-1 ,Asian TV 
+https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Ananda TV https://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8 
+#EXTINF:-1 ,Ananda TV 
+https://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Colosal TV https://global.ncare.live/live-orgin/colosal.stream/playlist.m3u8 
+#EXTINF:-1 ,Colosal TV 
+https://global.ncare.live/live-orgin/colosal.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Channel I https://global.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8 
+#EXTINF:-1 ,Channel I 
+https://global.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Channel Europe https://global.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8 
+#EXTINF:-1 ,Channel Europe 
+https://global.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8 
 
-#EXTINF:-1 ,CGTN News https://global.ncare.live/live-orgin/cgtn.stream/playlist.m3u8 
+#EXTINF:-1 ,CGTN News 
+https://global.ncare.live/live-orgin/cgtn.stream/playlist.m3u8 
 
-#EXTINF:-1 ,CGTN Documentary https://global.ncare.live/live-orgin/cgtndoc.stream/playlist.m3u8 
+#EXTINF:-1 ,CGTN Documentary 
+https://global.ncare.live/live-orgin/cgtndoc.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Boishakhi TV https://global.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8 
+#EXTINF:-1 ,Boishakhi TV 
+https://global.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Biswa Bangla 24 https://global.ncare.live/live-orgin/biswabanglatv.stream/playlist.m3u8 
+#EXTINF:-1 ,Biswa Bangla 24 
+https://global.ncare.live/live-orgin/biswabanglatv.stream/playlist.m3u8 
 
-#EXTINF:-1 ,ATN News https://global.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png", Vokta TV
+https://tv.voktatv.com:8080/hls/stream.m3u8
 
-#EXTINF:-1 ,Banglavision HD https://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png", Sananda
+http://54.38.79.60:2020/sananda/index.m3u8
 
-#EXTINF:-1 ,Bangla TV https://global.ncare.live/live-orgin/banglatvhd.stream/playlist.m3u8 
+#EXTINF:-1 ,ATN News 
+https://global.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8 
+
+#EXTINF:-1 ,Banglavision HD 
+https://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8 
+
+#EXTINF:-1 ,Bangla TV 
+https://global.ncare.live/live-orgin/banglatvhd.stream/playlist.m3u8 
 
 #EXTINF:-1 ,Bangla 24 Canada https://global.ncare.live/live-orgin/b24c.stream/playlist.m3u8 
 
@@ -81,79 +107,114 @@ http://217.20.112.199/starplushd/index.m3u8
 
 #EXTINF:-1 ,NRB TV https://global.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8 
 
-#EXTINF:-1 ,NASA TV https://global.ncare.live/live-orgin/nasatv.stream/playlist.m3u8 
+#EXTINF:-1 ,NASA TV 
+https://global.ncare.live/live-orgin/nasatv.stream/playlist.m3u8 
 
-#EXTINF:-1 ,NAN TV https://global.ncare.live/live-orgin/nantv.stream/playlist.m3u8 
+#EXTINF:-1 ,NAN TV 
+https://global.ncare.live/live-orgin/nantv.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Movie Bangla https://global.ncare.live/live-orgin/moviebanglalink2.stream/playlist.m3u8 
+#EXTINF:-1 ,Movie Bangla 
+https://global.ncare.live/live-orgin/moviebanglalink2.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Millennium TV USA https://global.ncare.live/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8 
+#EXTINF:-1 ,Millennium TV USA 
+https://global.ncare.live/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Millennium TV 24 https://global.ncare.live/live-orgin/mnews24.stream/playlist.m3u8 
+#EXTINF:-1 ,Millennium TV 24 
+https://global.ncare.live/live-orgin/mnews24.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Makkah TV https://global.ncare.live/live-orgin/makkahtv.stream/playlist.m3u8 
+#EXTINF:-1 ,Makkah TV 
+https://global.ncare.live/live-orgin/makkahtv.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Madani Channel Bangla https://global.ncare.live/live-orgin/madanitvbangla.stream/playlist.m3u8 
+#EXTINF:-1 ,Madani Channel Bangla 
+https://global.ncare.live/live-orgin/madanitvbangla.stream/playlist.m3u8 
 
-#EXTINF:-1 ,JonmoBhumi TV https://global.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8 
+#EXTINF:-1 ,JonmoBhumi TV 
+https://global.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Jamuna TV https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8 
+#EXTINF:-1 ,Jamuna TV 
+https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Jagoroni TV https://global.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8
+#EXTINF:-1 ,Jagoroni TV 
+https://global.ncare.live/live-orgin/jagoronitv.stream/playlist.m3u8
 
-#EXTINF:-1 ,JagoNews24 TV https://global.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 ,JagoNews24 TV 
+https://global.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 
-#EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg"Maasranga TV https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg"Maasranga TV 
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,Islam TV https://global.ncare.live/live-orgin/islamtv.stream/playlist.m3u8 
+#EXTINF:-1 ,Islam TV 
+https://global.ncare.live/live-orgin/islamtv.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Iqra Bangla https://global.ncare.live/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8
+#EXTINF:-1 ,Iqra Bangla 
+https://global.ncare.live/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8
 
-#EXTINF:-1 ,iON TV UK https://global.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8
+#EXTINF:-1 ,iON TV UK 
+https://global.ncare.live/live-orgin/iontvuk.stream/playlist.m3u8
 
-#EXTINF:-1 ,Independent TV https://global.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8 
+#EXTINF:-1 ,Independent TV 
+https://global.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8 
 
-#EXTINF:-1 ,Green TV https://global.ncare.live/live-orgin/greentv.stream/playlist.m3u8 #EXTINF:-1 ,DW News https://global.ncare.live/live-orgin/dwnews.stream/playlist.m3u8
+#EXTINF:-1 ,Green TV https://global.ncare.live/live-orgin/greentv.stream/playlist.m3u8 #EXTINF:-1 ,DW News 
+https://global.ncare.live/live-orgin/dwnews.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/starjalsha.png", Star Jalsha SD http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/starjalsha.png", Star Jalsha SD 
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/starjalsha.png", Star Jalsha HD http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/4280/116.m3u8 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/starjalsha.png", Star Jalsha HD 
+http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/4280/116.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/zeebangla.png", Zee Bangla SD https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla1/default/index.m3u8 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/zeebangla.png", Zee Bangla SD 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla1/default/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/zeebangla.png", Zee Bangla HD https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/index.m3u8 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/zeebangla.png", Zee Bangla HD 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/colorsbn.png", Colors Bangla http://217.20.112.199/colorsbangla/index.m3u8 #EXTINF:-1 tvg-logo="http://toffe.top/images/entertain.png", Enter10 Bangla https://live-bangla.akamaized.net/liveabr/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/colorsbn.png", Colors Bangla http://217.20.112.199/colorsbangla/index.m3u8 #EXTINF:-1 tvg-logo="http://toffe.top/images/entertain.png", Enter10 Bangla 
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/Zeebanglacinema.png", Zee Bangla Cinema https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/index.m3u8 #EXTINF:-1 tvg-logo="http://toffe.top/images/sonymax.jpg", Sony Max http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/185.m3u8 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/Zeebanglacinema.png", Zee Bangla Cinema https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema1/default/index.m3u8 #EXTINF:-1 tvg-logo="http://toffe.top/images/sonymax.jpg", Sony Max 
+http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/185.m3u8 
 
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonyaath-live/revamp/channel_images/15_wah_0_2023_12_05_15_35_52.png", Sony Wah http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/187.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/zeecinema.jpg", Zee Cinema SD https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema1/default/index.m3u8 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/zeecinema.jpg", Zee Cinema SD 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema1/default/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/zeecinema.jpg", Zee Cinema HD https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd1/default/index.m3u8 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/zeecinema.jpg", Zee Cinema HD 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd1/default/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/andpicture.png", And Pictures SD https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures1/default/index.m3u8 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/andpicture.png", And Pictures SD 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures1/default/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/andpicture.png", And Pictures HD https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/index.m3u8 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/andpicture.png", And Pictures HD 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png", Zee TV SD https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv1/default/index.m3u8 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png", Zee TV SD 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv1/default/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png", Zee TV HD https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/Zee%20Tv1664974411.png", Zee TV HD 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd1/default/index.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/starplus.png", Star Plus HD http://217.20.112.199/starplushd/index.m3u8 #EXTINF:-1 tvg-logo="http://toffe.top/images/stargold.png", Star Gold HD http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd 
+#EXTINF:-1 tvg-logo="http://toffe.top/images/starplus.png", Star Plus HD http://217.20.112.199/starplushd/index.m3u8 #EXTINF:-1 tvg-logo="http://toffe.top/images/stargold.png", Star Gold HD 
+http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/STAR-GOLD-HD/live.mpd 
 
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg", Bollywood HD https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8 
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/bollywood-hd.jpg", Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlMp_lvJxQyDpmcovC66MJShchiUnb5cRm6xVtyVQXPr1ZxWTsQXbcFc&s=10", Sheemaro Bollywood https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlMp_lvJxQyDpmcovC66MJShchiUnb5cRm6xVtyVQXPr1ZxWTsQXbcFc&s=10", Sheemaro Bollywood 
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2e8LNjHCh-fMGMHR9DKdVQpSFpQrWwQsYIA&usqp=CAU", Movie Club https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2e8LNjHCh-fMGMHR9DKdVQpSFpQrWwQsYIA&usqp=CAU", Movie Club 
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="http://toffe.top/images/jalshamovies.png", Jalsha Movies http://tv.cloudcdn.online:80/live/00:1A:79:A4:26:62/4280/117.m3u8 
 
-#EXTINF:-1 tvg-logo="http://toffe.top/images/sonyath.png", Sony Aath HD http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
+#EXTINF:-1 tvg-logo="http://toffe.top/images/sonyath.png", Sony Aath
+https://tv.cloudcdn.online/live/00:1A:79:A4:26:62/4280/44150.m3u8
 
-#EXTINF:-1 ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png"Star Plus http://217.20.112.199/starplushd/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png", Star Plus
+http://217.20.112.199/starplushd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="ZEE5",& Pictures HD 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8 
@@ -319,4 +380,19 @@ https://cdn2.pishow.tv/live/115/master.m3u8
 https://cdn2.pishow.tv/live/174/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png", DD
-https://cdn2.pishow.tv/live/178/master.m3u
+https://cdn2.pishow.tv/live/178/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png", Dhaka FM
+http://118.179.219.244:8000/
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png", Quran Live
+https://s2.voscast.com:12312/
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png", Sadhin FM
+https://stream.zeno.fm/umq9q5uuva5tv
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png", Radio Today
+https://stream.zeno.fm/0zha3rfq02quv
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png", Live Quran
+http://104.167.2.55:8000/
